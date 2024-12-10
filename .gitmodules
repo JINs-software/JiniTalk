@@ -1,0 +1,3 @@
+[submodule "Assets/Script/Unity_Util"]
+	path = Assets/Script/Unity_Util
+	url = https://github.com/JINs-software/Unity_Util.git
